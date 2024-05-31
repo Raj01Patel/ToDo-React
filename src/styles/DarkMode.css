@@ -1,0 +1,9 @@
+body.dark {
+    background-color: #333;
+    color: white;
+}
+
+.dark input, .dark select, .dark textarea, .dark button {
+    background-color: #555;
+    color: white;
+}

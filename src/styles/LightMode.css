@@ -1,0 +1,9 @@
+body.light {
+    background-color: #f0f0f0;
+    color: black;
+}
+
+.light input, .light select, .light textarea, .light button {
+    background-color: #fff;
+    color: black;
+}
